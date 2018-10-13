@@ -1,4 +1,3 @@
 # docker-mono-xsp
 
-latest official mono
-+ xsp
+latest official mono with xsp
